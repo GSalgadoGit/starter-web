@@ -8,3 +8,4 @@ This row added by myfeature branch, added one more change by myfeature branch
 Adding changes after rebase conflict by bigtrouble branch
 Remote change directly from GitHub hip.txt
 Change about Stash by Local master branch
+Change Multiple stashes in Local Master branch
