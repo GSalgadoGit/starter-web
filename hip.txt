@@ -9,3 +9,4 @@ Adding changes after rebase conflict by bigtrouble branch
 Remote change directly from GitHub hip.txt
 Change about Stash by Local master branch
 Change Multiple stashes in Local Master branch
+Change about tag example from master branch
